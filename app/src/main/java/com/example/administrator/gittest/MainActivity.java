@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int i = 0;
-        int j = 0;
+        int j = 10;
         int g = 233;
     }
 }
